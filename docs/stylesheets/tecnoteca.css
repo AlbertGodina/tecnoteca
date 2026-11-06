@@ -101,3 +101,22 @@
   padding: .5rem;
   border-radius: 8px;
 }
+
+/* Logotip bicolor: "Tecno" en color de text i "teca" en l'accent */
+.tt-teca { color: var(--md-accent-fg-color); }
+
+/* Targetes de la portada: text més gran i més aire */
+.md-typeset .grid.cards > ul > li {
+  padding: 1.2rem 1.4rem;
+}
+.md-typeset .grid.cards > ul > li > p:first-child {
+  font-family: "Space Grotesk", Inter, sans-serif;
+  font-size: 1.75em;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-top: 0;
+}
+.md-typeset .grid.cards > ul > li > p:not(:first-child) {
+  font-size: 1.1em;
+  line-height: 1.5;
+}
