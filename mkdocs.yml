@@ -1,9 +1,9 @@
 site_name: Tecnoteca
 site_description: Guia de Tecnologia i Digitalització per a l'ESO
 # PENDENT: canvia USUARI pel teu usuari o organització de GitHub
-site_url: https://USUARI.github.io/tecnoteca/
-repo_url: https://github.com/USUARI/tecnoteca
-repo_name: USUARI/tecnoteca
+site_url: https://AlbertGodina.github.io/tecnoteca/
+repo_url: https://github.com/AlbertGodina/tecnoteca
+repo_name: AlbertGodina/tecnoteca
 copyright: Tecnoteca · CC BY-SA 4.0
 
 theme:
