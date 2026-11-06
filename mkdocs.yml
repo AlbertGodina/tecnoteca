@@ -9,7 +9,7 @@ copyright: Tecnoteca · CC BY-SA 4.0
 theme:
   name: material
   language: ca
-      custom_dir: overrides
+  custom_dir: overrides
   font:
     text: Inter
     code: JetBrains Mono
