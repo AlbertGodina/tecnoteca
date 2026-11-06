@@ -28,9 +28,4 @@ Per afegir una pàgina: crea el `.md` dins de `docs/` i afegeix-lo a `nav` de `m
 3. Cada `push` a `main` executa `.github/workflows/deploy.yml` i publica a la branca `gh-pages`.
 4. A *Settings › Pages*, tria com a font la branca `gh-pages`.
 
-## Pendent abans de publicar
 
-- Substituir `USUARI` (URL i repositori).
-- Comprovar que les imatges i textos migrats tinguin llicència compatible amb CC BY-SA.
-- No publicar memòries, fotos ni cap dada de l'alumnat.
-- Confirmar que, un cop publicada, la web no fa peticions a serveis externs de fonts (pestanya *Xarxa* del navegador).
